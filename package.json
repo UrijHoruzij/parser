@@ -1,7 +1,7 @@
 {
-  "name": "parser",
+  "name": "Parser",
   "version": "1.0.0",
-  "description": "",
+  "description": "This parser allows you to download images of products from online stores.",
   "main": "index.js",
   "dependencies": {
     "image-downloader": "^3.5.0",
@@ -11,6 +11,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Urij Horuzij",
   "license": "ISC"
 }
