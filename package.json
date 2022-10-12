@@ -4,7 +4,7 @@
   "description": "This parser allows you to download images of products from online stores.",
   "main": "index.js",
   "dependencies": {
-    "image-downloader": "^3.5.0",
+    "image-downloader": "^4.3.0",
     "puppeteer": "^18.2.1"
   },
   "devDependencies": {},
