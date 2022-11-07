@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "image-downloader": "^4.3.0",
-    "puppeteer": "^19.1.0"
+    "puppeteer": "^19.2.2"
   },
   "devDependencies": {},
   "scripts": {
